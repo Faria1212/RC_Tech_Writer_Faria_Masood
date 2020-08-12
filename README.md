@@ -31,15 +31,15 @@ To Create a User:
 
 1. In the form on the left, type the name of your new user and their username. Enter their email address. Turn on verification if you want the user to verify their email. You can also mention their status message, bio and nickname. Select their role and **save** it.
 
-![](RackMultipart20200811-4-u7085q_html_aefc7b176b18c924.png)
+![Save It](https://user-images.githubusercontent.com/69473830/90065044-18456f00-dd05-11ea-9360-122022217568.png)
 
 Your new user is created.
 
-![](RackMultipart20200811-4-u7085q_html_4fedf9e84b554307.png)
+![User Created](https://user-images.githubusercontent.com/69473830/90066154-ce5d8880-dd06-11ea-9747-bcc61885c32b.png)
 
 It will appear in the users list.
 
-![](RackMultipart20200811-4-u7085q_html_8d30ba71c897285e.png)
+![User List](https://user-images.githubusercontent.com/69473830/90066155-cef61f00-dd06-11ea-8f0e-cc18630a7db0.png)
 
 ## Reset Users&#39; Passwords
 
@@ -47,15 +47,14 @@ To rest a user&#39;s password:
 
 1. Click the user you want to rest password for.
 
-![](RackMultipart20200811-4-u7085q_html_893c1b634e28a8d2.png)
+![User Pswd](https://user-images.githubusercontent.com/69473830/90068939-f18a3700-dd0a-11ea-9bf1-49ad630e0836.png)
 
 1. Hit **Edit**.
 
-![](RackMultipart20200811-4-u7085q_html_34c95784328aefd4.png)
+![Hit Edit](https://user-images.githubusercontent.com/69473830/90068999-0b2b7e80-dd0b-11ea-822f-699cfdab47dc.png)
 
 1. Set new password and **Save**.
-
-![](RackMultipart20200811-4-u7085q_html_867cbbe79a24a797.png)
+![New Pswd and Save](https://user-images.githubusercontent.com/69473830/90069080-2f875b00-dd0b-11ea-8e85-3b5ad55a0d8f.png)
 
 ## Make a User an Admin
 
@@ -63,19 +62,19 @@ To make a user an admin:
 
 1. Click the user you want to make an Admin.
 
-![](RackMultipart20200811-4-u7085q_html_893c1b634e28a8d2.png)
+![Make Admin](https://user-images.githubusercontent.com/69473830/90069914-6f027700-dd0c-11ea-8567-467d4a40b1b7.png)
 
 1. Hit **Edit**.
 
-![](RackMultipart20200811-4-u7085q_html_34c95784328aefd4.png)
+![Admin Edit](https://user-images.githubusercontent.com/69473830/90070188-e46e4780-dd0c-11ea-83ea-a5aa8bdedb91.png)
 
 1. Remove previous role.
 
-![](RackMultipart20200811-4-u7085q_html_6294dfe04e2988f5.png)
+![Edit User](https://user-images.githubusercontent.com/69473830/90070312-17b0d680-dd0d-11ea-8d0e-d61533c6366a.png)
 
 1. Select **Admin** as new role for this user and **Save**.
 
-![](RackMultipart20200811-4-u7085q_html_b0152ee775367752.png)
+![Admin New Role](https://user-images.githubusercontent.com/69473830/90070398-43cc5780-dd0d-11ea-9a95-8b8490bc0d09.png)
 
 ## Delete a User
 
@@ -83,23 +82,23 @@ To delete a user:
 
 1. Click the user you want to delete.
 
-![](RackMultipart20200811-4-u7085q_html_893c1b634e28a8d2.png)
+![Del User](https://user-images.githubusercontent.com/69473830/90070850-f7cde280-dd0d-11ea-9265-b31e73067a97.png)
 
 1. Click more options.
 
-![](RackMultipart20200811-4-u7085q_html_e08cca723d627856.png)
+![User Info](https://user-images.githubusercontent.com/69473830/90070855-f8ff0f80-dd0d-11ea-8480-d1cc2657de98.png)
 
 1. Hit **Delete**.
 
-![](RackMultipart20200811-4-u7085q_html_46a6a7f7b2b7dc42.png)
+![User Info Del](https://user-images.githubusercontent.com/69473830/90070853-f8667900-dd0d-11ea-8da9-7c15ccd7176c.png)
 
 1. Hit **Delete** again in message box.
 
-![](RackMultipart20200811-4-u7085q_html_56f6656a63ddb4cc.png)
+![Del Msg Prompt](https://user-images.githubusercontent.com/69473830/90070848-f69cb580-dd0d-11ea-88b7-9b8493b2c7cd.png)
 
 The user is deleted.
 
-![](RackMultipart20200811-4-u7085q_html_3f06c4336b21597.png)
+![User Del Confirmation](https://user-images.githubusercontent.com/69473830/90070851-f8667900-dd0d-11ea-9f39-5c9cc0762234.png)
 #
 # Content Backlog Management
 
