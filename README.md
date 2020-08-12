@@ -26,12 +26,12 @@ To Create a User:
 ![Create a User](https://user-images.githubusercontent.com/69473830/90064489-44acbb80-dd04-11ea-825a-8208a645249a.png)
 
 
-1. Click **+New**.
+2. Click **+New**.
 
 ![Click New](https://user-images.githubusercontent.com/69473830/90064866-d288a680-dd04-11ea-9973-697cb6c20eca.png)
 
 
-1. In the form on the left, type the name of your new user and their username. Enter their email address. Turn on verification if you want the user to verify their email. You can also mention their status message, bio and nickname. Select their role and **save** it.
+3. In the form on the left, type the name of your new user and their username. Enter their email address. Turn on verification if you want the user to verify their email. You can also mention their status message, bio and nickname. Select their role and **save** it.
 
 ![Save It](https://user-images.githubusercontent.com/69473830/90065044-18456f00-dd05-11ea-9360-122022217568.png)
 
@@ -51,11 +51,12 @@ To rest a user&#39;s password:
 
 ![User Pswd](https://user-images.githubusercontent.com/69473830/90068939-f18a3700-dd0a-11ea-9bf1-49ad630e0836.png)
 
-1. Hit **Edit**.
+2. Hit **Edit**.
 
 ![Hit Edit](https://user-images.githubusercontent.com/69473830/90068999-0b2b7e80-dd0b-11ea-822f-699cfdab47dc.png)
 
-1. Set new password and **Save**.
+3. Set new password and **Save**.
+
 ![New Pswd and Save](https://user-images.githubusercontent.com/69473830/90069080-2f875b00-dd0b-11ea-8e85-3b5ad55a0d8f.png)
 
 ## Make a User an Admin
@@ -66,15 +67,15 @@ To make a user an admin:
 
 ![Make Admin](https://user-images.githubusercontent.com/69473830/90069914-6f027700-dd0c-11ea-8567-467d4a40b1b7.png)
 
-1. Hit **Edit**.
+2. Hit **Edit**.
 
 ![Admin Edit](https://user-images.githubusercontent.com/69473830/90070188-e46e4780-dd0c-11ea-83ea-a5aa8bdedb91.png)
 
-1. Remove previous role.
+3. Remove previous role.
 
 ![Edit User](https://user-images.githubusercontent.com/69473830/90070312-17b0d680-dd0d-11ea-8d0e-d61533c6366a.png)
 
-1. Select **Admin** as new role for this user and **Save**.
+4. Select **Admin** as new role for this user and **Save**.
 
 ![Admin New Role](https://user-images.githubusercontent.com/69473830/90070398-43cc5780-dd0d-11ea-9a95-8b8490bc0d09.png)
 
@@ -86,15 +87,15 @@ To delete a user:
 
 ![Del User](https://user-images.githubusercontent.com/69473830/90070850-f7cde280-dd0d-11ea-9265-b31e73067a97.png)
 
-1. Click more options.
+2. Click more options.
 
 ![User Info](https://user-images.githubusercontent.com/69473830/90070855-f8ff0f80-dd0d-11ea-8480-d1cc2657de98.png)
 
-1. Hit **Delete**.
+3. Hit **Delete**.
 
 ![User Info Del](https://user-images.githubusercontent.com/69473830/90070853-f8667900-dd0d-11ea-8da9-7c15ccd7176c.png)
 
-1. Hit **Delete** again in message box.
+4. Hit **Delete** again in message box.
 
 ![Del Msg Prompt](https://user-images.githubusercontent.com/69473830/90070848-f69cb580-dd0d-11ea-88b7-9b8493b2c7cd.png)
 
