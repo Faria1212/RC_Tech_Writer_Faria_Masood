@@ -24,11 +24,10 @@ To Create a User:
 1. From the sidebar menu, click **Users**.
 ![Create a User](https://user-images.githubusercontent.com/69473830/90064489-44acbb80-dd04-11ea-825a-8208a645249a.png)
 
-![](RackMultipart20200811-4-u7085q_html_61842374a850207.png)
 
 1. Click **+New**.
+![Click New](https://user-images.githubusercontent.com/69473830/90064866-d288a680-dd04-11ea-9973-697cb6c20eca.png)
 
-![](RackMultipart20200811-4-u7085q_html_dfb34685c93b92.png)
 
 1. In the form on the left, type the name of your new user and their username. Enter their email address. Turn on verification if you want the user to verify their email. You can also mention their status message, bio and nickname. Select their role and **save** it.
 
