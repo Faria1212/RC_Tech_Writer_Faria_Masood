@@ -123,18 +123,30 @@ Technical Emergent Meetings and sprint calls will happen. The **minutes of the m
 
 By the end of week 3:
 
-1. **User Manual version one for** the paid product will be made for **frontend**.
+1. **User Manual version one** for the paid product will be made for **frontend**.
 2. **User Manual version one** for the open-source product will be made for **frontend**.
 
 # Week 4 - Testing
 
 During Week 4:
 
-1. **User Manual version two** for the paid product will be made for **frontend** and **backend**.
-2. **User Manual version two** for the open-source product will be made for **frontend** and **backend**.
+1. **User Manual version two** for the paid product will be made for **frontend** and **backend**. (with screenshots)
+2. **User Manual version two** for the open-source product will be made for **frontend** and **backend**. (with screenshots)
 
 Test case document will be made. (Not by the technical writer but by the testing team)
 
 And lastly, **Sprint Closure** report will be written.
+
+# List of Documents
+
+1. Requirement Specification
+2. Architectural Design Document (High Level + Low Level)
+3. User Manual (Frontend) v. 1 paid product
+4. User Manual (Frontend) v. 1 open-source product
+5. User Manual (Frontend with screenshots + Backend) v. 2 paid product 
+6. User Manual (Frontend with screenshots + Backend) v. 2 open-source product
+
+
+
 
 \*\* Note: The list of documents varies per product and company. Ideally, we should follow the agile standards.\*\*
