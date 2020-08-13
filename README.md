@@ -39,7 +39,7 @@ Your new user is created.
 
 ![User Created](https://user-images.githubusercontent.com/69473830/90066154-ce5d8880-dd06-11ea-9747-bcc61885c32b.png)
 
-It will appear in the users list.
+It will appear in the user's list.
 
 ![User List](https://user-images.githubusercontent.com/69473830/90066155-cef61f00-dd06-11ea-8f0e-cc18630a7db0.png)
 
@@ -47,7 +47,7 @@ It will appear in the users list.
 
 To rest a user&#39;s password:
 
-1. Click the user you want to rest password for.
+1. Click the user you want to reset password for.
 
 ![User Pswd](https://user-images.githubusercontent.com/69473830/90068939-f18a3700-dd0a-11ea-9bf1-49ad630e0836.png)
 
@@ -55,7 +55,7 @@ To rest a user&#39;s password:
 
 ![Hit Edit](https://user-images.githubusercontent.com/69473830/90068999-0b2b7e80-dd0b-11ea-822f-699cfdab47dc.png)
 
-3. Set new password and **Save**.
+3. Set a new password and **Save**.
 
 ![New Pswd and Save](https://user-images.githubusercontent.com/69473830/90069080-2f875b00-dd0b-11ea-8e85-3b5ad55a0d8f.png)
 
@@ -71,11 +71,11 @@ To make a user an admin:
 
 ![Admin Edit](https://user-images.githubusercontent.com/69473830/90070188-e46e4780-dd0c-11ea-83ea-a5aa8bdedb91.png)
 
-3. Remove previous role.
+3. Remove the previous role.
 
 ![Edit User](https://user-images.githubusercontent.com/69473830/90070312-17b0d680-dd0d-11ea-8d0e-d61533c6366a.png)
 
-4. Select **Admin** as new role for this user and **Save**.
+4. Select **Admin** as the new role for this user and **Save**.
 
 ![Admin New Role](https://user-images.githubusercontent.com/69473830/90070398-43cc5780-dd0d-11ea-9a95-8b8490bc0d09.png)
 
@@ -95,7 +95,7 @@ To delete a user:
 
 ![User Info Del](https://user-images.githubusercontent.com/69473830/90070853-f8667900-dd0d-11ea-8da9-7c15ccd7176c.png)
 
-4. Hit **Delete** again in message box.
+4. Hit **Delete** again in the message box.
 
 ![Del Msg Prompt](https://user-images.githubusercontent.com/69473830/90070848-f69cb580-dd0d-11ea-88b7-9b8493b2c7cd.png)
 
@@ -112,28 +112,29 @@ A sign-off will be signed between the stakeholders after the sign-off meeting.
 # Week 1 – Feature Definition
 
 1. **Requirement Specification** will be written.
-2. Prototyping (after brainstorming and white boarding) will be done and giving to the client for the front end of the product.
+2. Prototyping (after brainstorming and whiteboarding) will be done and giving to the client for the front end of the product.
+3. **Architectural Design Document (High Level + Low Level)** will be made.
 
 # Week 2 – Development
 
-Technical Emergent Meetings and sprint calls will happen. The **minutes of meetings** will be taken.
+Technical Emergent Meetings and sprint calls will happen. The **minutes of the meetings** will be taken.
 
 # Week 3 - Development
 
 By the end of week 3:
 
 1. **User Manual version one for** the paid product will be made for **frontend**.
-2. **User Manual version one** for the open source product will be made for **frontend**.
+2. **User Manual version one** for the open-source product will be made for **frontend**.
 
 # Week 4 - Testing
 
 During Week 4:
 
 1. **User Manual version two** for the paid product will be made for **frontend** and **backend**.
-2. **User Manual version two** for the open source product will be made for **frontend** and **backend**.
+2. **User Manual version two** for the open-source product will be made for **frontend** and **backend**.
 
 Test case document will be made. (Not by the technical writer but by the testing team)
 
 And lastly, **Sprint Closure** report will be written.
 
-\*\* Note: list of documents varies from product to product and company to company. Ideally we should follow the agile standards.\*\*
+\*\* Note: The list of documents varies per product and company. Ideally, we should follow the agile standards.\*\*
